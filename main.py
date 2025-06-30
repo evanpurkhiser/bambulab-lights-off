@@ -7,7 +7,6 @@ finished_states = [
     GcodeState.IDLE,
     GcodeState.FINISH,
     GcodeState.FAILED,
-    GcodeState.UNKNOWN,
 ]
 
 if __name__ == "__main__":
