@@ -1,3 +1,7 @@
+> [!WARNING]
+> This is no longer supported after the recent authentication requirements in
+> newer Bambu Lab firmware.
+
 Turns off the Bambu Lab printers lights when they are idle.
 
 ```
